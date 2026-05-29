@@ -60,4 +60,8 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maruthipratap/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/maruthipratap/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
