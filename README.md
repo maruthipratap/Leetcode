@@ -32,6 +32,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/maruthipratap/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maruthipratap/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -48,6 +49,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/maruthipratap/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -80,9 +82,14 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Counting
 |  |
 | ------- |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
