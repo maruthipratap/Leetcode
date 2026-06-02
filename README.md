@@ -26,6 +26,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/maruthipratap/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maruthipratap/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/maruthipratap/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maruthipratap/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
@@ -75,4 +77,12 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
+## Counting
+|  |
+| ------- |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
