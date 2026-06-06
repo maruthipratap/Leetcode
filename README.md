@@ -68,6 +68,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0949-largest-time-for-given-digits](https://github.com/maruthipratap/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -123,6 +124,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
