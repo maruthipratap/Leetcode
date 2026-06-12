@@ -5,6 +5,6 @@ class Solution {
             if(val<10) oneSum+=val;
             else twoSum+=val;
         }
-        return oneSum==twoSum?false:true;
+        return oneSum!=twoSum;
     }
 }
