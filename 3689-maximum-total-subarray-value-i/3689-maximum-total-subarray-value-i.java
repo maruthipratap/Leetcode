@@ -1,11 +1,11 @@
 class Solution {
     public long maxTotalValue(int[] nums, int k) {
-        long max=Long.MIN_VALUE;
-        long min=Long.MAX_VALUE;
+        long minVal=Integer.MAX_VALUE,maxVal=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
-            max=Math.max(max,nums[i]);
-            min=Math.min(min,nums[i]);
+            minVal=Math.min(minVal,nums[i]);
+            maxVal=Math.max(maxVal,nums[i]);
+            
         }
-        return k*(max-min);
+        return (long)k*(maxVal-minVal);
     }
 }
