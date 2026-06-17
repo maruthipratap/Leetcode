@@ -1,6 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
-        if(s.length()==1)return false;
+        if(s.length()%2!=0)return false;
         Stack<Character> stack=new Stack<>();
         char[] str=s.toCharArray();
         for(char ch:str){
@@ -12,10 +12,12 @@ class Solution {
                     stack.pop();
                 }else return false;
             }else if(ch==']'){
+                if(stack.isEmpty())return false;
                 if(stack.peek()=='['){
                     stack.pop();
                 }else return false;
             }else{
+                if(stack.isEmpty())return false;
                 if(stack.peek()=='{'){
                     stack.pop();
                 }else return false;
