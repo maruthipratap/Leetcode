@@ -100,6 +100,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/maruthipratap/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maruthipratap/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maruthipratap/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/maruthipratap/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -177,6 +178,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maruthipratap/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/maruthipratap/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/maruthipratap/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Tree
 |  |
 | ------- |
@@ -205,4 +207,5 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/maruthipratap/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
