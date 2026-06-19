@@ -192,6 +192,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0199-binary-tree-right-side-view](https://github.com/maruthipratap/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maruthipratap/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maruthipratap/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/maruthipratap/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +204,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0199-binary-tree-right-side-view](https://github.com/maruthipratap/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maruthipratap/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maruthipratap/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/maruthipratap/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0129-sum-root-to-leaf-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/maruthipratap/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maruthipratap/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/maruthipratap/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
