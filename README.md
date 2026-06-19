@@ -143,6 +143,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maruthipratap/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -190,6 +191,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0112-path-sum](https://github.com/maruthipratap/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/maruthipratap/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maruthipratap/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maruthipratap/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/maruthipratap/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -202,6 +204,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0112-path-sum](https://github.com/maruthipratap/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/maruthipratap/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maruthipratap/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maruthipratap/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/maruthipratap/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -231,4 +234,8 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maruthipratap/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
