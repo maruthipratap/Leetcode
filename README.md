@@ -21,6 +21,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/maruthipratap/Leetcode/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -143,6 +145,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
