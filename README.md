@@ -91,6 +91,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1189-maximum-number-of-balloons](https://github.com/maruthipratap/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/maruthipratap/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/maruthipratap/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
