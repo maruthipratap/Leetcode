@@ -22,6 +22,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/maruthipratap/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/maruthipratap/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/maruthipratap/Leetcode/tree/master/0198-house-robber) |
@@ -152,6 +154,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -182,12 +185,14 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/maruthipratap/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2390-removing-stars-from-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Backtracking
 |  |
