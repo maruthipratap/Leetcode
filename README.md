@@ -25,6 +25,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0014-longest-common-prefix](https://github.com/maruthipratap/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/maruthipratap/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | ------- |
 | [0012-integer-to-roman](https://github.com/maruthipratap/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
@@ -72,6 +74,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -92,6 +95,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0012-integer-to-roman](https://github.com/maruthipratap/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/maruthipratap/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/maruthipratap/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
