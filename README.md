@@ -36,6 +36,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0198-house-robber](https://github.com/maruthipratap/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/maruthipratap/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/maruthipratap/Leetcode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -188,6 +189,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maruthipratap/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
