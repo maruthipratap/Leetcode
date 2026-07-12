@@ -43,6 +43,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
 | [0949-largest-time-for-given-digits](https://github.com/maruthipratap/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maruthipratap/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maruthipratap/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -71,6 +72,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0575-distribute-candies](https://github.com/maruthipratap/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/maruthipratap/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maruthipratap/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/maruthipratap/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maruthipratap/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -82,6 +84,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
