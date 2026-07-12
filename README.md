@@ -286,6 +286,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0111-minimum-depth-of-binary-tree](https://github.com/maruthipratap/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/maruthipratap/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/maruthipratap/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [2685-count-the-number-of-complete-components](https://github.com/maruthipratap/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -298,6 +299,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0257-binary-tree-paths](https://github.com/maruthipratap/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/maruthipratap/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/maruthipratap/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/maruthipratap/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Game Theory
 |  |
 | ------- |
@@ -329,4 +331,12 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | ------- |
 | [0002-add-two-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/maruthipratap/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/maruthipratap/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/maruthipratap/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
