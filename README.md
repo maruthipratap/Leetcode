@@ -71,6 +71,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -151,6 +152,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0002-add-two-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/maruthipratap/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/maruthipratap/Leetcode/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
@@ -203,6 +205,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/maruthipratap/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
