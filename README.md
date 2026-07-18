@@ -156,6 +156,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1952-three-divisors](https://github.com/maruthipratap/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maruthipratap/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/maruthipratap/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/maruthipratap/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/maruthipratap/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maruthipratap/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maruthipratap/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
