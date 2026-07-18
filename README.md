@@ -153,6 +153,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
+| [1952-three-divisors](https://github.com/maruthipratap/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maruthipratap/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/maruthipratap/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/maruthipratap/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -231,6 +232,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/maruthipratap/Leetcode/tree/master/0949-largest-time-for-given-digits) |
+| [1952-three-divisors](https://github.com/maruthipratap/Leetcode/tree/master/1952-three-divisors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maruthipratap/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -365,6 +367,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/maruthipratap/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maruthipratap/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/maruthipratap/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maruthipratap/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
