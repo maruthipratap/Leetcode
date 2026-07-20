@@ -47,6 +47,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
 | [0949-largest-time-for-given-digits](https://github.com/maruthipratap/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maruthipratap/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/maruthipratap/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maruthipratap/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -178,6 +179,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/maruthipratap/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
 | ------- |
@@ -266,6 +268,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/maruthipratap/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/maruthipratap/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maruthipratap/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maruthipratap/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
