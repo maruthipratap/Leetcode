@@ -127,6 +127,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [2264-largest-3-same-digit-number-in-string](https://github.com/maruthipratap/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2810-faulty-keyboard](https://github.com/maruthipratap/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/maruthipratap/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maruthipratap/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maruthipratap/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -278,6 +279,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [2161-partition-array-according-to-given-pivot](https://github.com/maruthipratap/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/maruthipratap/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2810-faulty-keyboard](https://github.com/maruthipratap/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/maruthipratap/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Tree
 |  |
