@@ -60,6 +60,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/maruthipratap/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/maruthipratap/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/maruthipratap/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maruthipratap/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -81,6 +82,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1189-maximum-number-of-balloons](https://github.com/maruthipratap/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/maruthipratap/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/maruthipratap/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/maruthipratap/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/maruthipratap/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
@@ -94,6 +96,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/maruthipratap/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
@@ -196,6 +199,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/maruthipratap/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/maruthipratap/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Design
 |  |
 | ------- |
