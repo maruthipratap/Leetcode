@@ -32,6 +32,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/maruthipratap/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/maruthipratap/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -165,6 +166,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0002-add-two-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/maruthipratap/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/maruthipratap/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/maruthipratap/Leetcode/tree/master/0263-ugly-number) |
 | [0400-nth-digit](https://github.com/maruthipratap/Leetcode/tree/master/0400-nth-digit) |
