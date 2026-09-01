@@ -131,6 +131,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0345-reverse-vowels-of-a-string](https://github.com/maruthipratap/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/maruthipratap/Leetcode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/maruthipratap/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0949-largest-time-for-given-digits](https://github.com/maruthipratap/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1189-maximum-number-of-balloons](https://github.com/maruthipratap/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -234,6 +235,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0345-reverse-vowels-of-a-string](https://github.com/maruthipratap/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/maruthipratap/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/maruthipratap/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -275,6 +277,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0094-binary-tree-inorder-traversal](https://github.com/maruthipratap/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/maruthipratap/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maruthipratap/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -295,6 +298,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/maruthipratap/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/maruthipratap/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maruthipratap/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/maruthipratap/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
