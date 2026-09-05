@@ -37,6 +37,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/maruthipratap/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
@@ -107,6 +109,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0015-3sum](https://github.com/maruthipratap/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/maruthipratap/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maruthipratap/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/maruthipratap/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maruthipratap/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -226,6 +229,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/maruthipratap/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -409,6 +413,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maruthipratap/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -442,4 +447,8 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/maruthipratap/Leetcode/tree/master/0881-boats-to-save-people) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
