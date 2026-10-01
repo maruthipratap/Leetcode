@@ -6,24 +6,15 @@ class Solution {
         for(char ch:str){
             if(ch=='('||ch=='[' || ch=='{'){
                 stack.push(ch);
-            }else if(ch==')' ){
+            }else {
                 if(stack.isEmpty()) return false;
-                if(stack.peek()=='('){
-                    stack.pop();
-                }else return false;
-            }else if(ch==']'){
-                if(stack.isEmpty())return false;
-                if(stack.peek()=='['){
-                    stack.pop();
-                }else return false;
-            }else{
-                if(stack.isEmpty())return false;
-                if(stack.peek()=='{'){
-                    stack.pop();
-                }else return false;
+                char top=stack.pop();
+                if(ch==')' && top!='(') return false;
+                if(ch=='}' && top!='{') return false;
+                if(ch==']' && top!='[') return false;
             }
+            
         }
-        if(!stack.isEmpty())return false;
-        return true;
+        return stack.isEmpty();
     }
 }
