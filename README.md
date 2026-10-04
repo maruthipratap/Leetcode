@@ -150,6 +150,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0345-reverse-vowels-of-a-string](https://github.com/maruthipratap/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/maruthipratap/Leetcode/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/maruthipratap/Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/maruthipratap/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -178,6 +179,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/maruthipratap/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maruthipratap/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -298,6 +300,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0011-container-with-most-water](https://github.com/maruthipratap/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/maruthipratap/Leetcode/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/maruthipratap/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -318,6 +321,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/maruthipratap/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/maruthipratap/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/maruthipratap/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maruthipratap/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -471,6 +475,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | ------- |
 | [0020-valid-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maruthipratap/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
