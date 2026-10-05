@@ -153,6 +153,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/maruthipratap/Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/maruthipratap/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0949-largest-time-for-given-digits](https://github.com/maruthipratap/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maruthipratap/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -324,6 +325,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/maruthipratap/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/maruthipratap/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maruthipratap/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/maruthipratap/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -476,6 +478,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0020-valid-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/maruthipratap/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/maruthipratap/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
