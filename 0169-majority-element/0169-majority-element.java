@@ -1,16 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Map<Integer,Integer> map=new HashMap<>();
-        for(int val:nums){
-            map.put(val,map.getOrDefault(val,0)+1);
-        }
-        int max=0,val=0;
-        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            if(entry.getValue()>val){
-                val=entry.getValue();
-                max=entry.getKey();
+        int cnt=0,cand=0;
+        for(int  num:nums){
+            if(cnt==0){
+                cand=num;
+            }
+            if(cand==num){
+                cnt++;
+            }else{
+                cnt--;
             }
         }
-        return max;
+        return cand;
     }
 }
