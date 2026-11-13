@@ -39,6 +39,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/maruthipratap/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/maruthipratap/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/maruthipratap/Leetcode/tree/master/0198-house-robber) |
@@ -298,6 +299,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maruthipratap/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/maruthipratap/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/maruthipratap/Leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/maruthipratap/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
