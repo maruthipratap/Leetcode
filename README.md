@@ -57,6 +57,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/maruthipratap/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/maruthipratap/Leetcode/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/maruthipratap/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/maruthipratap/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0949-largest-time-for-given-digits](https://github.com/maruthipratap/Leetcode/tree/master/0949-largest-time-for-given-digits) |
@@ -308,6 +309,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0350-intersection-of-two-arrays-ii](https://github.com/maruthipratap/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/maruthipratap/Leetcode/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/maruthipratap/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/maruthipratap/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maruthipratap/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
