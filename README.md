@@ -207,6 +207,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0012-integer-to-roman](https://github.com/maruthipratap/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/maruthipratap/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/maruthipratap/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/maruthipratap/Leetcode/tree/master/0263-ugly-number) |
 | [0400-nth-digit](https://github.com/maruthipratap/Leetcode/tree/master/0400-nth-digit) |
@@ -292,6 +293,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maruthipratap/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/maruthipratap/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/maruthipratap/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -510,4 +512,8 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/maruthipratap/Leetcode/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/maruthipratap/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
