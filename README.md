@@ -295,6 +295,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maruthipratap/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/maruthipratap/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/maruthipratap/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maruthipratap/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/maruthipratap/Leetcode/tree/master/0400-nth-digit) |
@@ -505,4 +506,8 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/maruthipratap/Leetcode/tree/master/0075-sort-colors) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/maruthipratap/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
