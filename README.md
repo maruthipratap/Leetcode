@@ -80,6 +80,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [2574-left-and-right-sum-differences](https://github.com/maruthipratap/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/maruthipratap/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maruthipratap/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/maruthipratap/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/maruthipratap/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -138,6 +139,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/maruthipratap/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/maruthipratap/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maruthipratap/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -204,6 +206,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0594-longest-harmonious-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maruthipratap/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/maruthipratap/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
