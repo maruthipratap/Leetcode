@@ -221,6 +221,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0066-plus-one](https://github.com/maruthipratap/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/maruthipratap/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/maruthipratap/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/maruthipratap/Leetcode/tree/master/0263-ugly-number) |
 | [0400-nth-digit](https://github.com/maruthipratap/Leetcode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/maruthipratap/Leetcode/tree/master/0509-fibonacci-number) |
@@ -457,6 +458,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/maruthipratap/Leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Counting Sort
 |  |
@@ -477,6 +479,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | ------- |
 | [0002-add-two-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/maruthipratap/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/maruthipratap/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/maruthipratap/Leetcode/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
