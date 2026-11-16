@@ -191,6 +191,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0032-longest-valid-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/maruthipratap/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/maruthipratap/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/maruthipratap/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/maruthipratap/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/maruthipratap/Leetcode/tree/master/0392-is-subsequence) |
@@ -220,6 +221,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/maruthipratap/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/maruthipratap/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/maruthipratap/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/maruthipratap/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/maruthipratap/Leetcode/tree/master/0263-ugly-number) |
@@ -542,5 +544,6 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/maruthipratap/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/maruthipratap/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
