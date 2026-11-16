@@ -68,6 +68,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maruthipratap/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maruthipratap/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/maruthipratap/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maruthipratap/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -137,6 +138,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0209-minimum-size-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/maruthipratap/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maruthipratap/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/maruthipratap/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/maruthipratap/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -196,6 +198,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maruthipratap/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maruthipratap/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maruthipratap/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/maruthipratap/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -221,6 +224,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0400-nth-digit](https://github.com/maruthipratap/Leetcode/tree/master/0400-nth-digit) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maruthipratap/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/maruthipratap/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maruthipratap/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/maruthipratap/Leetcode/tree/master/2413-smallest-even-multiple) |
