@@ -461,6 +461,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/maruthipratap/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/maruthipratap/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/maruthipratap/Leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -473,6 +474,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maruthipratap/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/maruthipratap/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
