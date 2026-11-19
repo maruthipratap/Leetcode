@@ -79,6 +79,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [2196-create-binary-tree-from-descriptions](https://github.com/maruthipratap/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/maruthipratap/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/maruthipratap/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/maruthipratap/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/maruthipratap/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/maruthipratap/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maruthipratap/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -130,6 +131,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/maruthipratap/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/maruthipratap/Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -340,6 +342,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maruthipratap/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/maruthipratap/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/maruthipratap/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
