@@ -155,6 +155,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0005-longest-palindromic-substring](https://github.com/maruthipratap/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/maruthipratap/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/maruthipratap/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/maruthipratap/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/maruthipratap/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/maruthipratap/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -198,6 +199,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maruthipratap/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/maruthipratap/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/maruthipratap/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/maruthipratap/Leetcode/tree/master/0055-jump-game) |
@@ -500,6 +502,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/maruthipratap/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/maruthipratap/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/maruthipratap/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/maruthipratap/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/maruthipratap/Leetcode/tree/master/0509-fibonacci-number) |
