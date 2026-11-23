@@ -354,6 +354,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maruthipratap/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/maruthipratap/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2429-minimize-xor](https://github.com/maruthipratap/Leetcode/tree/master/2429-minimize-xor) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/maruthipratap/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -483,6 +484,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0231-power-of-two](https://github.com/maruthipratap/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/maruthipratap/Leetcode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2429-minimize-xor](https://github.com/maruthipratap/Leetcode/tree/master/2429-minimize-xor) |
 ## Counting Sort
 |  |
 | ------- |
