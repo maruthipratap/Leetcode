@@ -68,6 +68,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1260-shift-2d-grid](https://github.com/maruthipratap/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/maruthipratap/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/maruthipratap/Leetcode/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/maruthipratap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/maruthipratap/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maruthipratap/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maruthipratap/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -142,6 +143,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0209-minimum-size-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/maruthipratap/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/maruthipratap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maruthipratap/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/maruthipratap/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -240,6 +242,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0509-fibonacci-number](https://github.com/maruthipratap/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/maruthipratap/Leetcode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/maruthipratap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/maruthipratap/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/maruthipratap/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maruthipratap/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -285,6 +288,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/maruthipratap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -562,4 +566,8 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | ------- |
 | [0070-climbing-stairs](https://github.com/maruthipratap/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/maruthipratap/Leetcode/tree/master/0509-fibonacci-number) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/maruthipratap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
