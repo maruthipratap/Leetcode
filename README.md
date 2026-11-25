@@ -236,6 +236,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0007-reverse-integer](https://github.com/maruthipratap/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/maruthipratap/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/maruthipratap/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/maruthipratap/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/maruthipratap/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/maruthipratap/Leetcode/tree/master/0070-climbing-stairs) |
@@ -482,6 +483,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/maruthipratap/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/maruthipratap/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/maruthipratap/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/maruthipratap/Leetcode/tree/master/0222-count-complete-tree-nodes) |
