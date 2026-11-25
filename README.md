@@ -98,6 +98,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0013-roman-to-integer](https://github.com/maruthipratap/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/maruthipratap/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/maruthipratap/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/maruthipratap/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/maruthipratap/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -165,6 +166,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/maruthipratap/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/maruthipratap/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/maruthipratap/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/maruthipratap/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/maruthipratap/Leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/maruthipratap/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/maruthipratap/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -224,6 +226,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/maruthipratap/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/maruthipratap/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/maruthipratap/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/maruthipratap/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
