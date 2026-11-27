@@ -90,6 +90,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/maruthipratap/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/maruthipratap/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [1871-jump-game-vii](https://github.com/maruthipratap/Leetcode/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/maruthipratap/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/maruthipratap/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/maruthipratap/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -370,6 +372,7 @@ To strengthen Data Structures & Algorithms and prepare for technical interviews.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/maruthipratap/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/maruthipratap/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/maruthipratap/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/maruthipratap/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
